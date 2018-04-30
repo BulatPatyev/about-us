@@ -1,0 +1,3 @@
+<html>
+<mat-button-toggle>Toggle me!</mat-button-toggle
+</html>
